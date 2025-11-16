@@ -88,6 +88,7 @@ MIT License - feel to use for educational purposes
 - Google Places API for providing childcare data
 - Streamlit for the web framework
 - Colleagues and friends who encouraged me to keep going
+- Built with guidance from coworkers, online resources, documentation, and Claude
 
 ---
 
