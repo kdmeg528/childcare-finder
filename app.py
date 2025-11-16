@@ -1,6 +1,6 @@
 """
 Simple Streamlit App for Childcare Finder
-Uses only Google Places data - no complex setup needed!
+Uses only Google Places data 
 
 SAVE THIS FILE AS: app.py
 """
