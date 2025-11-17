@@ -95,7 +95,7 @@ MIT License - feel free to use this project for learning!
 
 ---
 
-Built for families looking for childcare
+Built for moms trying to learn ML and data engineering who are also looking for childcare 🩵
 
 ## Notes
 Initial commits may show my work profile as I developed this on my work laptop. This is a personal project completed independently for my coursework. All subsequent commits use my personal credentials.
