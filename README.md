@@ -2,16 +2,24 @@
 
 A machine learning-powered web application that helps families find the childcare based on location, budget, and educational philosophy.
 
+📘 About this project
+
+This repository contains my midterm project for my first coding course in machine learning. The goal was to build a simple, end-to-end application that collects childcare data using the Google Places API, engineers useful features, and produces basic recommendations.
+
+As part of this project, I learned a lot about GitHub workflows, local development, containerizing code with Docker, and working with public datasets to support a real application. The data and models still need refinement, but this represents a big step forward from where I started.
+
+My background is in content design and technical writing, so this project reflects both my learning process and my growing experience in Python, data engineering, and applied machine learning.
+
 ## 🌟 Features
 
-- **Smart Matching**: Calculates match scores based on your preferences
-- **Interactive Map**: See all providers on an interactive map
-- **Real Reviews**: Uses actual Google Places reviews and ratings
-- **Budget Filtering**: Find childcare within your budget
-- **Educational Philosophy**: Filter by Montessori, Play-Based, STEM, etc.
-- **Analytics Dashboard**: Visualize market trends and pricing
+- **Smart matching**: Calculates match scores based on your preferences
+- **Interactive map**: See all providers on an interactive map
+- **Real reviews**: Uses actual Google Places reviews and ratings
+- **Budget filtering**: Find childcare within your budget
+- **Educational philosophy**: Filter by Montessori, Play-Based, STEM, etc.
+- **Analytics dashboard**: Visualize market trends and pricing
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies used
 
 - **Python 3.11**
 - **Streamlit** - Web framework
@@ -59,7 +67,7 @@ docker build -t childcare-finder .
 docker run -p 8501:8501 childcare-finder
 ```
 
-## 📊 How It Works
+## 📊 How it works
 
 1. **Data Collection**: Uses Google Places API to gather childcare provider information
 2. **Feature Engineering**: Extracts educational philosophies and quality indicators from reviews
@@ -86,8 +94,8 @@ MIT License - feel free to use this project for learning!
 
 - Google Places API for providing childcare data
 - Streamlit for the web framework
-- Colleagues and friends who encouraged me to keep going
-- Built with guidance from coworkers, online FAQs and resources, and Claude
+- Coworkers and friends who encouraged me to continue with this course
+- Built with guidance from colleagues, online FAQs and resources, and Claude
 
 ---
 
