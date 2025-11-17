@@ -1,6 +1,6 @@
 # 🏠 Childcare Finder
 
-A machine learning-powered web application that helps families find the childcare based on location, budget, and educational philosophy. This is my first machine learning application. My background is in content design and technical writing.
+A machine learning-powered web application that helps families find the childcare based on location, budget, and educational philosophy.
 
 ## 🌟 Features
 
@@ -72,7 +72,7 @@ docker run -p 8501:8501 childcare-finder
 
 ## 📸 Screenshots
 
-*(Add screenshots here once deployed)*
+![childcare-finder](https://1787891.fs1.hubspotusercontent-na1.net/hubfs/1787891/ML%20Zoomcamp%202025/Screen%20Shot%202025-11-16%20at%208.25.22%20PM.png)
 
 ## 👨‍💻 Author
 
