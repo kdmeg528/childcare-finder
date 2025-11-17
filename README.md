@@ -4,11 +4,7 @@ A machine learning-powered web application that helps families find childcare ba
 
 ## 📘 About this project
 
-This repository contains my midterm project for my first coding course in machine learning. The goal was to build a simple, end-to-end application that collects childcare data using the Google Places API, engineers useful features, and produces basic recommendations.
-
-As part of this project, I learned a lot about GitHub workflows, local development, containerizing code with Docker, and working with public datasets to support a real application. The data and models still need refinement, but this represents a big step forward from where I started.
-
-My background is in content design and technical writing, so this project reflects both my learning process and my growing experience in Python, data engineering, and applied machine learning.
+This repository contains my midterm project for [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html). It gathers childcare data from the Google Places API and uses it to make basic, customizable recommendations. My background is in content design and technical writing. This project is for building skills in Python, data engineering, and applied machine learning. 
 
 ## 🌟 Features
 
@@ -84,7 +80,7 @@ docker run -p 8501:8501 childcare-finder
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Megan Driscoll**
 - GitHub: [@kdmeg528](https://github.com/kdmeg528)
 
 ## 📄 License
