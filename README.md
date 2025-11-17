@@ -90,12 +90,13 @@ MIT License - feel free to use this project for learning!
 
 - Google Places API for providing childcare data
 - Streamlit for the web framework
-- Coworkers and friends who encouraged me to continue with this course
-- Built with guidance from colleagues, online FAQs and resources, and Claude
+- Built with guidance from coworkers, online FAQs and resources, and Claude
+- Thanks to coworkers and friends who encouraged me 🙏
 
 ---
 
-Built for moms trying to learn ML and data engineering who are also looking for childcare 🩵
+Built for families looking for childcare
+By a mom looking to learn more about ML and data engineering 🩵 
 
 ## Notes
 Initial commits may show my work profile as I developed this on my work laptop. This is a personal project completed independently for my coursework. All subsequent commits use my personal credentials.
