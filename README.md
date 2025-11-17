@@ -1,8 +1,8 @@
 # 🏠 Childcare Finder
 
-A machine learning-powered web application that helps families find the childcare based on location, budget, and educational philosophy.
+A machine learning-powered web application that helps families find childcare based on location, budget, and educational philosophy.
 
-📘 About this project
+## 📘 About this project
 
 This repository contains my midterm project for my first coding course in machine learning. The goal was to build a simple, end-to-end application that collects childcare data using the Google Places API, engineers useful features, and produces basic recommendations.
 
