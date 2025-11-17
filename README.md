@@ -80,15 +80,14 @@ docker run -p 8501:8501 childcare-finder
 - GitHub: [@kdmeg528](https://github.com/kdmeg528)
 
 ## 📄 License
-
-MIT License - feel to use for educational purposes
+MIT License - feel free to use this project for learning!
 
 ## 🙏 Acknowledgments
 
 - Google Places API for providing childcare data
 - Streamlit for the web framework
 - Colleagues and friends who encouraged me to keep going
-- Built with guidance from coworkers, online resources, documentation, and Claude
+- Built with guidance from coworkers, online FAQs and resources, and Claude
 
 ---
 
